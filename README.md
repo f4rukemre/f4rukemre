@@ -1,6 +1,7 @@
 ### Faruk Emre Başer
 #### Backend Developer
 İstanbul'da yaşıyorum 21 yaşındayım. Web Tasarımı ve Kodlama Öğrencisiyim.
+AcunMedyaAkademi öğrencisiyim.
 
 Skills: C# / MSSQL / MYSQL / HTML / CSS / JS
 
